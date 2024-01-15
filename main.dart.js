@@ -68338,7 +68338,7 @@ $S:19}
 A.Wt.prototype={
 $0(){var s=0,r=A.R(t.H)
 var $async$$0=A.S(function(a,b){if(a===1)return A.O(b,r)
-while(true)switch(s){case 0:A.hH("")
+while(true)switch(s){case 0:A.hH("https://github.com/noahfoe/Resume-Console")
 return A.P(null,r)}})
 return A.Q($async$$0,r)},
 $S:19}
